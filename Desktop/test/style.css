@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: palegreen;
+    display: flex;
+    justify-content: center;
+}
+
+main{
+    width: 300px;
+}
