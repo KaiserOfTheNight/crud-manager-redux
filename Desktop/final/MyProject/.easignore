@@ -1,0 +1,26 @@
+# System files
+**/AppData/**
+**/Desktop/baby/**
+**/logs/**
+**/*.log
+**/*.tmp
+**/*.cpuprofile
+**/Temp/**
+**/Cache/**
+**/User Data/**
+**/blob_storage/**
+**/workspaceStorage/**
+**/globalStorage/**
+
+# VS Code
+**/.vscode/**
+**/Code/**
+
+# Temporary build files
+.expo/
+web-build/
+android/.gradle/
+ios/build/
+
+# Dependencies
+node_modules/
